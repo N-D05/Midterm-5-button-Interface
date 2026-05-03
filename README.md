@@ -1,1 +1,2 @@
-This project uses Python in a Jupyter Notebook to analyze the dataset members.csv. The data was explored using basic commands to understand structure and identify data quality issues. A subset of the data was extracted using iloc. Visualizations including a chart, pie chart, and histogram were created and interpreted to show patterns, proportions, and distributions in the dataset.
+
+This project is a five-button program designed to display different course lists based on user selection. Each button represents a specific academic area, such as the School of Business or the MIS Department, and when clicked, the corresponding list of courses is shown on the screen.
